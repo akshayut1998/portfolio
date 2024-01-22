@@ -30,9 +30,6 @@
     </td>
   </tr>
   <tr>
-
-<table>
-  <tr>
     <td><img src="assets/Impact_Analytics.jpg" alt="Impact Logo" width="100" height="100"></td>
     <td>
       <strong>Data Scientist (Jan 2022 - May 2023)</strong><br>
@@ -41,7 +38,8 @@
       - Implemented a methodology for identifying lost sales, which then helped capture revenue worth over $500,000
     </td>
   </tr>
-  <tr>
+</table>
+
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
