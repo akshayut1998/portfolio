@@ -35,7 +35,7 @@
   <tr>
     <td><img src="assets/Impact_Analytics.jpg" alt="Impact Logo" width="100" height="100"></td>
     <td>
-      <strong>Senior Data Scientist (Jan 2022 - May 2023)</strong><br>
+      <strong>Data Scientist (Jan 2022 - May 2023)</strong><br>
       - Conducted ad hoc analyses, such as A/B testing pricing recommendations and product performance analysis<br>
       - Implemented drift correction models to adjust for post-Covid-19 consumer habits, enhancing accuracy by 10%+<br>
       - Implemented a methodology for identifying lost sales, which then helped capture revenue worth over $500,000
