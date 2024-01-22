@@ -10,7 +10,7 @@
 
 ## Work Experience
 
-![Impact_Logo](assets/Impact_Analytics.jpg)
+<img src="assets/Impact_Analytics.jpg" alt="Impact_Logo" width="200" height="200"/>
 
 **Senior Data Scientist (_Jan 2022 - May 2023_)**
 - Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
