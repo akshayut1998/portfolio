@@ -28,7 +28,7 @@
 
 <table>
   <tr>
-    <td><img src="assets/Impact_Analytics.jpg" alt="Impact Logo" width="100" height="100"></td>
+    <td><img src="assets/Impact_Analytics.jpg" alt="Impact Logo" width="200" height="200"></td>
     <td>
       <strong>Senior Data Scientist (Jan 2022 - May 2023)</strong><br>
       - Led forecasting projects for retailer clients to use in Impact Analytics' SaaS products, achieving 75%+ forecast accuracy<br>
@@ -37,7 +37,7 @@
     </td>
   </tr>
   <tr>
-    <td><img src="assets/Impact_Analytics.jpg" alt="Impact Logo" width="100" height="100"></td>
+    <td><img src="assets/Impact_Analytics.jpg" alt="Impact Logo" width="200" height="200"></td>
     <td>
       <strong>Data Scientist (Jan 2022 - May 2023)</strong><br>
       - Conducted ad hoc analyses, such as A/B testing pricing recommendations and product performance analysis<br>
