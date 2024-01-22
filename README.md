@@ -9,11 +9,11 @@
 <table>
   <tr>
     <td><img src="assets/UTLOGO.png" alt="UT Logo" width="100" height="100"></td>
-    <td>MS Business Analytics, UT Austin<br>GPA: 3.86/4, May '24</td>
+    <td>MS Business Analytics, UT Austin, GPA: 3.86/4, May '24</td>
   </tr>
   <tr>
     <td><img src="assets/RIT.png" alt="RIT Logo" width="100" height="100"></td>
-    <td>BE Mechanical Engineering, RIT<br>GPA: 8.44/10, May '20</td>
+    <td>BE Mechanical Engineering, RIT, GPA: 8.44/10, May '20</td>
   </tr>
 </table>
 
