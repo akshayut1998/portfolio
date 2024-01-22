@@ -5,7 +5,7 @@
 #### Technical Skills: Python, SQL, GCP, Snowflake, R, Tableau
 
 ## Education				       		
-- MS in Business Analytics, UT Austin | GPA: 3.86/4, May '24
+- MS in Business Analytics, UT Austin | GPA: 3.86/4, May '24 \
 - BE Mechanical Engineering | Ramaiah Institute of Technology | GPA: 8.44/10, May '20
 
 ## Work Experience
