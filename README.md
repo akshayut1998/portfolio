@@ -5,8 +5,8 @@
 #### Technical Skills: Python, SQL, GCP, Snowflake, R, Tableau
 
 ## Education				       		
-- MS Business Analytics, UT Austin | GPA: 3.86/4, May '24 
-- BE Mechanical Engineering, RIT |  GPA: 8.44/10, May '20
+- MS Business Analytics, UT Austin | <div style="float: right;">GPA: 3.86/4, May '24</div>
+- BE Mechanical Engineering, RIT | <div style="float: right;">GPA: 8.44/10, May '20</div>
 
 ## Work Experience
 
