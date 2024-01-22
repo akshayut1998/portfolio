@@ -6,7 +6,7 @@
 
 ## Education				       		
 - MS in Business Analytics, UT Austin | GPA: 3.86/4, May '24 
-- BE Mechanical Engineering, RIT | GPA: 8.44/10, May '20
+- BE Mechanical Engineering, RIT |     GPA: 8.44/10, May '20
 
 ## Work Experience
 ### Impact Analytics
