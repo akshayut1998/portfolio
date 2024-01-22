@@ -9,7 +9,6 @@
 - BE Mechanical Engineering, RIT |  GPA: 8.44/10, May '20
 
 ## Work Experience
-### Impact Analytics
 
 ![Impact_Logo](/assets/Impact_Analytics.png)
 
