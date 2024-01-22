@@ -19,15 +19,29 @@
 
 ## Work Experience
 
-<img src="assets/Impact_Analytics.jpg" alt="Impact_Logo" width="100" height="100"/>
+<table>
+  <tr>
+    <td><img src="assets/Impact_Analytics.jpg" alt="Impact Logo" width="100" height="100"></td>
+    <td>
+      <strong>Senior Data Scientist (Jan 2022 - May 2023)</strong><br>
+      - Led forecasting projects for retailer clients to use in Impact Analytics' SaaS products, achieving 75%+ forecast accuracy<br>
+      - Applied forecasts for business improvements, optimizing inventory and pricing, saving clients $200K+ annually<br>
+      - Liaised with clients, addressing business problems and handling inquiries about models used for forecasting
+    </td>
+  </tr>
+  <tr>
 
-**Senior Data Scientist (_Jan 2022 - May 2023_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
-
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+<table>
+  <tr>
+    <td><img src="assets/Impact_Analytics.jpg" alt="Impact Logo" width="100" height="100"></td>
+    <td>
+      <strong>Senior Data Scientist (Jan 2022 - May 2023)</strong><br>
+      - Conducted ad hoc analyses, such as A/B testing pricing recommendations and product performance analysis<br>
+      - Implemented drift correction models to adjust for post-Covid-19 consumer habits, enhancing accuracy by 10%+<br>
+      - Implemented a methodology for identifying lost sales, which then helped capture revenue worth over $500,000
+    </td>
+  </tr>
+  <tr>
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
