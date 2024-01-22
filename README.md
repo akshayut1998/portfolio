@@ -4,13 +4,19 @@
 
 #### Technical Skills: Python, SQL, GCP, Snowflake, R, Tableau
 
-## Education				       		
-- MS Business Analytics, UT Austin | <div style="float: right;">GPA: 3.86/4, May '24</div>
-- BE Mechanical Engineering, RIT | <div style="float: right;">GPA: 8.44/10, May '20</div>
+## Education
+
+<img src="assets/UTLOGO.png" alt="Impact_Logo" width="100" height="100"/>
+
+- MS Business Analytics, UT Austin | GPA: 3.86/4, May '24
+
+<img src="assets/RIT.png" alt="Impact_Logo" width="100" height="100"/>
+
+- BE Mechanical Engineering, RIT |  GPA: 8.44/10, May '20
 
 ## Work Experience
 
-<img src="assets/Impact_Analytics.jpg" alt="Impact_Logo" width="200" height="200"/>
+<img src="assets/Impact_Analytics.jpg" alt="Impact_Logo" width="100" height="100"/>
 
 **Senior Data Scientist (_Jan 2022 - May 2023_)**
 - Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
