@@ -19,6 +19,13 @@
 
 ## Work Experience
 
+<style>
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+</style>
+
 <table>
   <tr>
     <td><img src="assets/Impact_Analytics.jpg" alt="Impact Logo" width="100" height="100"></td>
@@ -39,7 +46,6 @@
     </td>
   </tr>
 </table>
-
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
