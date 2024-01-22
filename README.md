@@ -6,7 +6,7 @@
 
 ## Education				       		
 - MS in Business Analytics, UT Austin | GPA: 3.86/4, May '24
-- B.E Mechanical Engineering | Ramaiah Institute of Technology (_May 2020_)
+- BE Mechanical Engineering | Ramaiah Institute of Technology | GPA: 8.44/10, May '20
 
 ## Work Experience
 ### Impact Analytics
