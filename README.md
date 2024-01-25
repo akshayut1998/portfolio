@@ -46,3 +46,17 @@
     </td>
   </tr>
 </table>
+
+## Projects
+
+<table>
+  <tr>
+    <td><img src="assets/Beer.png" alt="UT Logo" width="100" height="100"></td>
+    <td>In this project, I implemented a sophisticated beer recommender system by scraping comments from a beer review website and incorporating user preferences like flavor profiles (e.g., dark, coffee). Leveraging lift analysis, I identified beers with similar traits, ensuring personalized recommendations. Additionally, I employed OpenAI's ChatGPT for sentiment analysis on user comments, filtering out beers with positive reviews. The result is a dynamic recommender that not only aligns with users' taste preferences but also guarantees a positive drinking experience. This project showcases my proficiency in web scraping, data analysis, and natural language processing, making it a valuable addition to my portfolio.</td>
+  </tr>
+  <tr>
+    <td><img src="assets/RIT.png" alt="RIT Logo" width="100" height="100"></td>
+    <td>BE Mechanical Engineering, RIT, GPA: 8.44/10, May '20</td>
+  </tr>
+</table>
+
