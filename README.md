@@ -51,12 +51,12 @@
 
 <table>
   <tr>
-    <td><img src="assets/Beer.png" alt="UT Logo" width="2500" height="2500"></td>
+    <td><img src="assets/Beer.png" alt="UT Logo" width="2000" height="2000"></td>
     <td><strong>Beer Recommender System</strong><br>
       In this project, I implemented a sophisticated beer recommender system by scraping comments from a beer review website and incorporating user preferences like flavor profiles (e.g., dark, coffee). Leveraging lift analysis, I identified beers with similar traits, ensuring personalized recommendations. Additionally, I employed OpenAI's ChatGPT for sentiment analysis on user comments, filtering out beers with positive reviews. The result is a dynamic recommender that not only aligns with users' taste preferences but also guarantees a positive drinking experience. The key skills I utilized in this project are web scraping, data analysis, and natural language processing.</td>
   </tr>
   <tr>
-    <td><img src="assets/Car.jpg" alt="RIT Logo" width="2500" height="2500"></td>
+    <td><img src="assets/Car.jpg" alt="RIT Logo" width="2000" height="2000"></td>
     <td><strong>Driver Safety Using Computer Vision</strong><br>
       The project focuses on addressing the issue of distracted driving by utilizing Convolutional Neural Networks (CNNs) and Transfer Learning models. It aims to automatically detect distracted behaviors, such as texting or talking on the phone, using a dataset of 2D dashboard camera images. The motivation comes from the high incidence of distracted driving-related accidents and the potential of dashboard cameras to improve safety. The approach involves leveraging pre-trained models for feature extraction, specifically employing CNNs and Transfer Learning. The key skills I utilized in this project are convolutional neural networks, transfer learning,computer vision and classification.</td>
   </tr>
