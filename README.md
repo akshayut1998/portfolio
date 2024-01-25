@@ -31,8 +31,8 @@
     <td><img src="assets/Impact_Analytics.jpg" alt="Impact Logo" width="270" height="270"></td>
     <td>
       <strong>Senior Data Scientist (Jan 2022 - May 2023)</strong><br>
-      - Led forecasting projects for retailer clients to use in Impact Analytics' SaaS products, achieving 75%+ forecast accuracy<br>
-      - Applied forecasts for business improvements, optimizing inventory and pricing, saving clients $200K+ annually<br>
+      - Spearheaded retail forecasting projects to estimate the impact of pricing on sales, which helped save $500K+ annually<br>
+      - Conducted A/B tests to pinpoint and eliminate ineffective coupons for e-commerce clients, saving $50K annually<br>
       - Liaised with clients, addressing business problems and handling inquiries about models used for forecasting
     </td>
   </tr>
@@ -40,9 +40,9 @@
     <td><img src="assets/Impact_Analytics.jpg" alt="Impact Logo" width="270" height="270"></td>
     <td>
       <strong>Data Scientist (Jan 2022 - May 2023)</strong><br>
-      - Conducted ad hoc analyses, such as A/B testing pricing recommendations and product performance analysis<br>
-      - Implemented drift correction models to adjust for post-Covid-19 consumer habits, enhancing accuracy by 10%+<br>
-      - Implemented a methodology for identifying lost sales, which then helped capture revenue worth over $500,000
+      - Optimized SQL queries, cutting runtime by 60%, and developed APIs for easy client modification of sales forecasts<br>
+      - Implemented post-Covid drift correction models, boosting accuracy and saving $1M via better inventory management<br>
+      - Implemented a methodology for identifying lost sales, which then helped capture lost revenue worth over $500,000
     </td>
   </tr>
 </table>
