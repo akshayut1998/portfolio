@@ -1,6 +1,6 @@
 # Data Scientist
 
-### Greeting! I am Akshay, a data enthusiast currently pursuing a Master's in Business Analytics at UT Austin. As a former Senior Data Scientist at Impact Analytics, my expertise extends across various domains, with a primary focus on leveraging data science to solve complex challenges. __I am on the lookout for intriguing and challenging opportunities within the dynamic realm of data science. If you're in search of a dedicated professional with a passion for turning data into actionable insights, you're in the right place!__
+### <span style="color:#407ab4">Greetings!</span> I am Akshay, a data enthusiast currently pursuing a Master's in Business Analytics at UT Austin. As a former Senior Data Scientist at Impact Analytics, my expertise extends across various domains, with a primary focus on leveraging data science to solve complex challenges. __I am on the lookout for intriguing and challenging opportunities within the dynamic realm of data science. If you're in search of a dedicated professional with a passion for turning data into actionable insights, you're in the right place!__
 
 ## Education
 
@@ -59,4 +59,18 @@
       The project focuses on addressing the issue of distracted driving by utilizing Convolutional Neural Networks (CNNs) and Transfer Learning models. It aims to automatically detect distracted behaviors, such as texting or talking on the phone, using a dataset of 2D dashboard camera images. The motivation comes from the high incidence of distracted driving-related accidents and the potential of dashboard cameras to improve safety. The approach involves leveraging pre-trained models for feature extraction, specifically employing CNNs and Transfer Learning. The key skills I utilized in this project are convolutional neural networks, transfer learning,computer vision and classification.</td>
   </tr>
 </table>
+
+## Contact
+
+Feel free to reach out to me at nakshaykrishnan@utexas.edu if you have any inquiries or would like to connect. I'm always open to discussing data science, analytics, or any exciting collaboration opportunities.
+
+## Connect with Me
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/akshay-navaneetha-krishnan/)
+&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/akshayut1998)
+
+## Resume 📄
+
+For more detailed information about my professional background, you can view my [resume here](https://github.com/akshayut1998/Github-Intro/blob/main/Akshay_Resume.pdf)
 
