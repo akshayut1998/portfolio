@@ -2,7 +2,7 @@
 
 ### <span style="color:#407ab4">Greetings! I am Akshay, a data enthusiast currently pursuing a Master's in Business Analytics at UT Austin. As a former Senior Data Scientist at Impact Analytics, my expertise extends across various domains, with a primary focus on leveraging data science to solve complex challenges.</span> 
 
-### <span style="color:#407ab4">I am on the lookout for intriguing and challenging opportunities within the dynamic realm of data science. If you're in search of a dedicated professional with a passion for turning data into actionable insights, you're in the right place!.</span> 
+### <span style="color:#407ab4">I am on the lookout for intriguing and challenging opportunities within the dynamic realm of data science. If you're in search of a dedicated professional with a passion for turning data into actionable insights, you're in the right place!</span> 
 
 ## Education
 
